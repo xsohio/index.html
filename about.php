@@ -13,8 +13,8 @@
         <nav>
             <div class="logo">KELOMPOK-5</div>
             <ul class="nav-links">
-                <li><a href="index.html" class="ripple">Home</a></li>
-                <li><a href="about.html" class="ripple">About</a></li>
+                <li><a href="index.php" class="ripple">Home</a></li>
+                <li><a href="about.php" class="ripple">About</a></li>
                 <li><a href="#" class="ripple">Lorem</a></li>
                 <li><a href="#" class="ripple">Dolor</a></li>
                 <li><a href="dashboard.html" class="ripple">Logout</a></li>
